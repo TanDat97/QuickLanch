@@ -1,0 +1,13 @@
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\bin\Debug\QuickLaunch.exe.config
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\bin\Debug\QuickLaunch.exe
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\bin\Debug\QuickLaunch.pdb
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Debug\QuickLaunch.csprojResolveAssemblyReference.cache
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Debug\QuickLaunch.Properties.Resources.resources
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Debug\QuickLaunch.csproj.GenerateResource.Cache
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Debug\QuickLaunch.exe
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Debug\QuickLaunch.pdb
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Debug\QuickLaunch.QuickLaunch.resources
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Debug\QuickLaunch.Data.resources
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Debug\QuickLaunch.AvailableApp.resources
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Debug\QuickLaunch.Delete.resources
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Debug\QuickLaunch.Chart.resources

@@ -1,0 +1,13 @@
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\bin\Release\QuickLaunch.exe.config
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\bin\Release\QuickLaunch.exe
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\bin\Release\QuickLaunch.pdb
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Release\QuickLaunch.AvailableApp.resources
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Release\QuickLaunch.Chart.resources
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Release\QuickLaunch.Data.resources
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Release\QuickLaunch.Delete.resources
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Release\QuickLaunch.QuickLaunch.resources
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Release\QuickLaunch.Properties.Resources.resources
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Release\QuickLaunch.csproj.GenerateResource.Cache
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Release\QuickLaunch.exe
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Release\QuickLaunch.pdb
+D:\Visual Studio Project\QuickLaunch\QuickLaunch\obj\Release\QuickLaunch.csprojResolveAssemblyReference.cache

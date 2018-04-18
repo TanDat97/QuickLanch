@@ -1,0 +1,25 @@
+D:\game\cotuong.EXE
+D:\game\cs1.6.exe
+D:\game\dau truong thu.exe
+D:\game\GAME-TOM-JERRY-BONG-NUOC-KE-DOT-KICH.exe
+D:\game\Garena-v2.0-VN.exe
+D:\game\Vn-570MS.exe
+D:\game\Need for speed\Activation.exe
+D:\game\Need for speed\AutoRun.exe
+D:\game\Need for speed\ConfigTool.exe
+D:\game\Need for speed\EASetup.exe
+D:\game\Need for speed\Launcher.exe
+D:\game\Need for speed\Core\EACoreServer.exe
+D:\game\Need for speed\Core\EAProxyInstaller.exe
+D:\game\Need for speed\Core\PatchProgress.exe
+D:\game\Need for speed\Crack\NFSHP_Activator.exe
+D:\game\Need for speed\Crack NFS Hot Pursuit-Thuthuattienich.com\NFS11.exe
+D:\game\Need for speed\DirectX\DXSETUP.exe
+D:\game\Need for speed\Redistributable\vcredist_x86.exe
+D:\game\Need for speed\Support\EADM\eadm-installer.exe
+D:\game\Poly.Bridge.v1.0.5\LAUNCHER.exe
+D:\game\Poly.Bridge.v1.0.5\polybridge.exe
+C:\Users\trant\AppData\Local\CocCoc\Browser\Application\browser.exe
+C:\Users\trant\AppData\Local\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe
+C:\Users\trant\AppData\Local\SourceTree\SourceTree.exe
